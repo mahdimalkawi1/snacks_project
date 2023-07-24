@@ -6,3 +6,8 @@
 to run the app:
 - pip install Django
 - python manage.py runserver
+- pip freeze > requirements.txt
+- docker-compose up
+
+
+
